@@ -1,0 +1,2 @@
+# Lottery-Ai-
+Lottery predictor
